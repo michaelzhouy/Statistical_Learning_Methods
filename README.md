@@ -5,8 +5,8 @@ $$ 1+1=2 \\   1+2=3 $$
 $$
 L(Y,f(X))
 \begin{cases}
-\ 1, Y!=f(X) \\
-0, Y=f(X)
+\ 1, &Y!=f(X) \\
+0, &Y=f(X)
 \end{cases}
 $$
 
