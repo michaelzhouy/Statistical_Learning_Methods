@@ -11,10 +11,9 @@ L(Y,f(X))
 $$
 
 $$
-f(n)
+f(n)=
 \begin{cases}
-\frac n2, &if\ n\ is\ even
-\\
+\frac n2, &if\ n\ is\ even\\
 3n + 1, &if\  n\ is\ odd
 \end{cases}
 $$
